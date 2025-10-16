@@ -101,7 +101,7 @@ This project is open source and available for personal use.
 
 ## 📧 Contact
 
-- **Email**: your.email@example.com
+- **Email**: 47thomasj@gmail.com
 - **GitHub**: [github.com/47thomasj](https://github.com/47thomasj)
 - **LinkedIn**: [linkedin.com/in/thomas-bean-294b12339](https://linkedin.com/in/thomas-bean-294b12339)
 
