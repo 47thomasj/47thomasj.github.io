@@ -1,0 +1,18 @@
+# Site settings
+title: Thomas Bean - Software Engineer
+description: Portfolio website showcasing software engineering projects and experience
+author: Thomas Bean
+email: your.email@example.com
+
+# GitHub Pages configuration
+plugins:
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+
+# Build settings
+markdown: kramdown
+
